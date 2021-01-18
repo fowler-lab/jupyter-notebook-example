@@ -1,2 +1,5 @@
 # jupyter-notebook-example
-A prototype jupyter notebook
+
+## Introduction
+
+A prototype *jupyter notebook*. 
